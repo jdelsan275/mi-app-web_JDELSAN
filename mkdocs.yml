@@ -1,0 +1,5 @@
+site_name: JDESAN Docs
+theme:
+  name: mkdocs
+nav:
+  - Inicio: index.md
